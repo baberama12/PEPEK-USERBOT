@@ -11,7 +11,7 @@
 
 ![VIEWS](https://komarev.com/ghpvc/?username=vckyou)
 ![Repo Size](https://img.shields.io/github/repo-size/vckyou/Geez-UserBot?&style=plastic&logo=github)
-[![GitHub issues](https://img.shields.io/github/issues/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/vckyou/Geez-UserBot/issues)
+[![GitHub issues](https://img.shields.io/github/issues/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/babenihbos/PEPEK-USERBOT/issues)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/vckyou/Geez-UserBot/graphs/commit-activity)
 [![GitHub contributors](https://img.shields.io/github/contributors/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://GitHub.com/vckyou/Geez-UserBot/graphs/contributors/)
 [![PR Open](https://img.shields.io/github/issues-pr/vckyou/Geez-UserBot?&style=plastic&logo=github)](https://github.com/Vckyou/Geez-UserBot/pulls)
